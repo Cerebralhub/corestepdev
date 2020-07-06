@@ -82,7 +82,7 @@ h2 {
 
 h3 {
 	color: #fff;
-	font: 700 1.75rem/2.125rem "Montserrat", sans-serif;
+	font: 700 1.35rem/2.125rem "Montserrat", sans-serif;
 }
 
 h4 {
@@ -781,7 +781,7 @@ input[type='checkbox'] {
 }
 
 .header #js-rotating {
-	color:#413d52 ;
+	color:#faa831 ;
 }
 
 .header .p-large {
@@ -804,7 +804,7 @@ input[type='checkbox'] {
 .slider-1 {
 	padding-top: 6.875rem;
 	padding-bottom: 6.375rem;
-	background-color: #262431;
+	background-color: #3e5457;
 }
 
 .slider-1 .slider-container {
